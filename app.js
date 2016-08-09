@@ -1,4 +1,7 @@
 'use strict';
+/*
+ * Decorator for the $log service
+ */
 
 var app = angular.module('main', []);
 
